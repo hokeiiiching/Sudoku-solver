@@ -5,3 +5,6 @@ A Sudoku (i.e. the puzzle) is a partially completed grid. A grid has 9 rows, 9 c
 Mathematically, Sudoku is a NP-complete problem. There is no known fast polynomial algorithm for solving the puzzle.
 
 
+Overall Goals
+1) Create a Sudoku Game in CLI
+2) Code algorithm that solves the Sudoku
